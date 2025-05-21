@@ -1,0 +1,1 @@
+Program([FuncDecl(foo,[],IntType,Block([Return(IntLiteral(1))])),FuncDecl(bar,[],IntType,Block([Return(FuncCall(bar,[])),FuncCall(foo,[])]))])

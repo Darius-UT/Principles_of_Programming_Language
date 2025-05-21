@@ -1,0 +1,23 @@
+
+func fvoid() {putStringLn("HoangPhuc");}
+
+var global = fint()
+const globalConst = "HoangPhuc"
+
+func main() {
+    fvoid();
+    putIntLn(global + 1)
+
+    var local = "a";
+    putBoolLn(local <= "b")
+    local += "c"
+    putStringLn(local)
+
+    const myConst = fint()
+    const myConst2 = "Hello world"
+    putStringLn(myConst2)
+
+    putStringLn(globalConst)
+};
+
+func fint() int {return 1;}

@@ -1,0 +1,11 @@
+
+    var v PHUC;
+    const b = v.foo();        
+    type PHUC struct {
+        a int;
+    } 
+    func (v PHUC) foo() int {return 1;}
+    func (v PHUC) koo() int {return 1;}
+    const c = v.koo();  
+    const d = v.zoo();
+    

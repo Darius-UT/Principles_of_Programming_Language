@@ -1,0 +1,15 @@
+
+    var v PHUC;
+
+    func foo ()  {
+        var x = v;
+        const a = x.a;
+        const e = x.e;
+    }
+        
+    type PHUC struct {
+        a int;
+        b int;
+        c int;
+    }
+        

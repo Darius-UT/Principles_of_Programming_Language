@@ -1,0 +1,10 @@
+
+func foo() int {return foo1();}
+var a = foo() + foo1();
+func main() {
+    putInt(a)
+    a := foo()
+    putInt(a)
+}
+func foo1() int {return 1;}
+        

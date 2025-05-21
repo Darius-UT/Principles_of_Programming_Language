@@ -1,0 +1,11 @@
+
+            func main() {
+                var x int = 7
+                var result boolean
+                if (isEven(x)) {
+                    result := true
+                } else {
+                    result := false
+                }
+            }
+        

@@ -1,0 +1,8 @@
+
+        func foo(){
+            var v int;
+            const x = v;
+            var k float = x;
+            var y boolean = x;
+        }
+        

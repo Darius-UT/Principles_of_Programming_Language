@@ -1,0 +1,8 @@
+
+var global = fint();
+
+func main() {
+    var local = 2;
+};
+
+func fint() int {return 1;}

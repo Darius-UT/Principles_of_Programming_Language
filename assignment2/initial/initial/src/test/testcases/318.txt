@@ -1,0 +1,7 @@
+
+            func (myMethod myStructType) main() {
+                for _ , value := range myArr {
+                    i := i + 1
+                }
+            }
+        

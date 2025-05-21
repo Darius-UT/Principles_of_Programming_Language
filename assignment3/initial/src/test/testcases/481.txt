@@ -1,0 +1,13 @@
+     
+                type Student struct {
+                    name string
+                    age int
+                }
+                func (s Student) getName() {
+                    return 
+                }
+                func main () {
+                    var s = Student { name: "s.name" };
+                    s.getName();
+                }
+                

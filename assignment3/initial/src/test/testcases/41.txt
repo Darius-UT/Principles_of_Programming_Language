@@ -1,0 +1,7 @@
+
+        func foo() int {return 1;}
+        func HoangPhuc() int {
+            return HoangPhuc();
+            foo();
+        }
+        

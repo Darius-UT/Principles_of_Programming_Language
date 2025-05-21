@@ -1,0 +1,9 @@
+
+func main() {
+    var local = "a";
+    local += "c"
+    putStringLn(local)
+    var local2 string;
+    //local2 := "Mien Nam giai phong";
+    putStringLn(local2)
+};

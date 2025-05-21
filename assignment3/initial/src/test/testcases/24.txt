@@ -1,0 +1,15 @@
+
+    var a = foo();
+    func foo () int {
+        var a =  koo();
+        var c = getInt();
+        putInt(c);
+        putIntLn(c);
+        return 1;
+    }
+    var d = foo();
+    func koo () int {
+        var a =  foo ();
+        return 1;
+    }
+        

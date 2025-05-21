@@ -1,0 +1,6 @@
+
+var global = 1;
+
+func main() {
+    var local = 2;
+};

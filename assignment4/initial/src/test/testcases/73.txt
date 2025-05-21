@@ -1,0 +1,12 @@
+
+func main() {
+    var i int;
+    for i := 0; i < 5; i += 1 {
+        if (i % 2 == 0) {
+            continue;
+        }
+        putInt(i);
+    }
+    putInt(i);
+}
+    

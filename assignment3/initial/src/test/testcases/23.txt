@@ -1,0 +1,8 @@
+
+    func foo () {
+        const a = 1;
+        for a, b := range [3]int {1, 2, 3} {
+            var d = 1;
+        }
+    }
+        

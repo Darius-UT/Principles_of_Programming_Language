@@ -1,0 +1,7 @@
+
+const a = 1* 2
+func main() {
+    var b [a][a] int = [a][a] int {{10, 20}, {30, 40}};
+    putInt(b[0][1])
+}
+    

@@ -1,0 +1,10 @@
+
+type TIEN struct {
+    HoangPhuc int;
+}
+
+func (v TIEN) getInt () {
+    const c = v.HoangPhuc;
+    var d = v.tien;
+}
+        

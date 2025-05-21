@@ -1,0 +1,13 @@
+
+                type Vehicle interface {
+                    GetSpeed() int
+                    SetSpeed(speed int)
+                }
+                type Car struct {
+                    speed int
+                }
+                func (c Car) GetSpeed() int {
+                    return 3
+                }
+                var a Vehicle = Car { speed: 10};
+                

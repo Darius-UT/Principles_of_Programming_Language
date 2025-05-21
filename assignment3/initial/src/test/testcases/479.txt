@@ -1,0 +1,8 @@
+     
+                func main () {
+                    putInt(1);
+                    putIntLn(2);
+                    putFloat(3.0);
+                    
+                }
+                

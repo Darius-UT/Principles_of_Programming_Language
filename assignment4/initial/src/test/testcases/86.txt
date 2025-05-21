@@ -1,0 +1,9 @@
+
+type Course interface {study();}
+type PPL3 struct {number int;}
+func (p PPL3) study() {putInt(p.number);}
+
+func main(){
+    putIntLn(4)
+}
+    

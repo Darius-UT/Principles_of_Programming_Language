@@ -1,0 +1,1 @@
+Program([FuncDecl(Declas,[],VoidType,Block([Return()])),VarDecl(Declas,IntLiteral(1))])

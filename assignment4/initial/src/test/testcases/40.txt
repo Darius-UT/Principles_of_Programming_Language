@@ -1,0 +1,6 @@
+
+func main() {
+    var a [2] int;
+    putInt(a[0])
+    putInt(a[1])
+}

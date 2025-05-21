@@ -1,0 +1,9 @@
+ 
+var a float = 3;
+func main() {
+    putFloatLn(a)
+    var a float = 4;
+    putFloatLn(a)
+    a := 2
+    putFloat(a)
+}

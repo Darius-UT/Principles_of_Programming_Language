@@ -1,0 +1,4 @@
+
+func HoangPhuc () {return;}
+var HoangPhuc = 1;
+        

@@ -1,0 +1,31 @@
+
+                type People interface {
+                    GetName() string
+                }
+                type Student struct {
+                    name string
+                    age int
+                }
+                func (s Student) GetName() string {
+                    return "s.name"
+                }
+                type Car struct {
+                    speed int
+                    name string
+                    driver Student
+                }
+                type Abc struct {
+                    age int
+                }
+                func getDriver(c Car) Student {
+                    return c.driver
+                }
+                func main () {
+
+                    var c = Car{speed:100,name:"abc",driver:Student{ age:20 }}
+                    var d = getDriver(c.driver)
+                    var z string = d.name+"OK";
+                    var t int = d.age*2+4;
+                    return;
+                }
+                

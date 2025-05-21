@@ -1,0 +1,10 @@
+
+            func main() integer {
+                var x int = 5
+                if (isEven(x)) {
+                    return;
+                } else {
+                    return "Xin chao, ta la Tan Muc"
+                }
+            }
+        

@@ -1,0 +1,10 @@
+
+type  HoangPhuc struct {
+    HoangPhuc int;
+}
+type TIEN struct {
+    HoangPhuc string;
+    TIEN int;
+    TIEN float;
+}
+        

@@ -1,0 +1,9 @@
+
+func main() {
+    var i int;
+    for i := 0; i < 2; i += 1 {
+        putInt(i)
+    }
+    putInt(i)
+}
+    

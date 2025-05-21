@@ -1,0 +1,1 @@
+Program([FuncDecl(main,[],Id(integer),Block([VarDecl(x,IntType,IntLiteral(5)),If(FuncCall(isEven,[Id(x)]),Block([Return()]),Block([Return(StringLiteral("Xin chao, ta la Tan Muc"))]))]))])

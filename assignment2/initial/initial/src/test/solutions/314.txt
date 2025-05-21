@@ -1,0 +1,1 @@
+Program([FuncDecl(main,[],VoidType,Block([VarDecl(x,IntType,IntLiteral(7)),VarDecl(result,BoolType),If(FuncCall(isEven,[Id(x)]),Block([Assign(Id(result),BooleanLiteral(true))]),Block([Assign(Id(result),BooleanLiteral(false))]))]))])

@@ -1,0 +1,4 @@
+
+        type Phuc interface {foo();}
+        type Phuc interface {foo();}
+        

@@ -1,0 +1,35 @@
+
+            func (myMethod myStructType) main() {
+                for _ , value := range myArr {
+                    i := i + 1
+                }
+            }
+            func (myMethod myStructType) main() {
+                for _ , value := range myArr {
+                    if (arr[i] < firstMin) {
+                        secondMin := firstMin
+                        firstMin := arr[i]
+                    } else if ((arr[i] < secondMin) && (arr[i] != firstMin)) {
+                        secondMin := arr[i]
+                    }
+                    i := i + 1
+                }
+            }
+            func main() {
+                var arr [5] int
+                arr[0] := 1
+                arr[1] := 2
+                arr[2] := 3
+                arr[3] := 4
+                arr[4] := 5
+
+                var reversed [5] int
+                var i int = 4
+                var j int = 0
+                for var i int = 4; i < 10; i += 1 {
+                    reversed[j] := arr[i]
+                    i := i - 1
+                    j := j + 1
+                }
+            }
+        

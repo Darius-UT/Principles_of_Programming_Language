@@ -1,0 +1,11 @@
+
+        type Phuc struct {
+            v int;
+        }
+        var v Phuc;
+        func foo() {
+            for 1 {
+                var a int = 1.2;
+            }
+        }
+        

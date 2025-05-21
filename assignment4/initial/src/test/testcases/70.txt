@@ -1,0 +1,10 @@
+
+func main() {
+    var i = 2;
+    for i > 0 {
+        putInt(i);
+        i -= 1;
+    }
+    putInt(i);
+}
+    

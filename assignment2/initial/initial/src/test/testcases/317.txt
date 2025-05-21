@@ -1,0 +1,13 @@
+
+            func (myMethod myStructType) main() {
+                for _ , value := range myArr {
+                    if (arr[i] < firstMin) {
+                        secondMin := firstMin
+                        firstMin := arr[i]
+                    } else if ((arr[i] < secondMin) && (arr[i] != firstMin)) {
+                        secondMin := arr[i]
+                    }
+                    i := i + 1
+                }
+            }
+        

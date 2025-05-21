@@ -1,0 +1,6 @@
+
+        var a [2][3] int;
+        var b = a[1];
+        var c [2] int = b;
+        var d [1] string = b;
+        

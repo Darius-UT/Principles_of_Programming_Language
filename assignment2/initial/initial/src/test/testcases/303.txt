@@ -1,0 +1,6 @@
+
+            func votien() {
+                return [2] ID { {1}, {"2"}, {nil}, {struc{}} };
+                return "THANKS YOU, PPL1 ";
+            };
+    

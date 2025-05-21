@@ -1,0 +1,7 @@
+ 
+var a = 1;
+func main() {
+    b := a + 1;
+    putInt(a)
+    putInt(b)
+}

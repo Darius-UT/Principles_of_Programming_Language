@@ -1,0 +1,1 @@
+Program([StructType(A,[(x,IntType)],[]),StructType(B,[(x,StringType),(y,IntType),(y,FloatType)],[])])

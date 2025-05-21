@@ -1,0 +1,1 @@
+Program([FuncDecl(foo,[],VoidType,Block([FuncCall(a,[]),FuncCall(a,[IntLiteral(1),IntLiteral(2)]),FuncCall(a,[IntLiteral(1)]),MethodCall(FieldAccess(Id(b),a),a,[]),MethodCall(FieldAccess(Id(b),a),a,[IntLiteral(1),IntLiteral(2)]),MethodCall(FieldAccess(Id(b),a),a,[IntLiteral(1)])]))])

@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "./target/main/minigo/parser",
+        "./src/main/minigo/utils",
+        "./src/main/minigo/parser",
+        "./src/main/minigo/astgen",
+    ]
+}

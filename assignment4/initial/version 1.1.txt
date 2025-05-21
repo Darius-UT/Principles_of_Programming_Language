@@ -1,0 +1,8 @@
+From 1.0
+- Fix getBreakLabel in Frame.py
+- Fix emitIREM and emitGOTO in MachineCode.py
+- Change emitMETHOD to help generate code for interface
+- Add some new methods in MachineCode.py to generate code for interface
+- Add bcel-5.2.jar and JasminVisitor.py and test.java in folder external
+
+

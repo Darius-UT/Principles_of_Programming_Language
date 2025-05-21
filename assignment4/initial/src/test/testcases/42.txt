@@ -1,0 +1,5 @@
+
+func main() {
+    var a [2][3][2] int ;
+    putInt(a[0][0][0])
+}

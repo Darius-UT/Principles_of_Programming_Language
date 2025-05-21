@@ -1,0 +1,10 @@
+myenv/
+*.env
+target/
+input/
+output/
+__pycache__/
+
+BKOOL
+codegen
+testcase

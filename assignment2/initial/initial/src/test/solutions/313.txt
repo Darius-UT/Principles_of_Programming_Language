@@ -1,0 +1,1 @@
+Program([FuncDecl(main,[],VoidType,Block([VarDecl(n,IntType,IntLiteral(10)),VarDecl(sum,IntType,IntLiteral(0)),VarDecl(i,IntType,IntLiteral(1)),For(BinaryOp(Id(i),<=,Id(n)),Block([Assign(Id(sum),BinaryOp(Id(sum),+,Id(i))),Assign(Id(i),BinaryOp(Id(i),+,IntLiteral(1)))]))]))])

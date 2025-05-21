@@ -1,0 +1,1 @@
+Program([VarDecl(v,Id(A)),StructType(A,[(a,IntType)],[]),InterfaceType(I,[Prototype(foo,[],IntType)]),MethodDecl(v,Id(A),FuncDecl(foo,[],IntType,Block([Return(IntLiteral(1))]))),MethodDecl(v,Id(A),FuncDecl(koo,[],VoidType,Block([MethodCall(Id(v),koo,[])]))),FuncDecl(test,[],VoidType,Block([VarDecl(x,Id(I)),ConstDecl(b,MethodCall(Id(x),foo,[])),MethodCall(Id(x),koo,[])]))])

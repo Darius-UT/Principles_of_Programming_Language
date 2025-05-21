@@ -1,0 +1,11 @@
+
+        type S1 struct {HoangPhuc int;}
+        type I1 interface {HoangPhuc() S1;}
+        type I2 interface {HoangPhuc() S2;}
+
+        func (s S1) HoangPhuc() S1 {return s;}
+
+        var a S1;
+        var c I1 = a;
+        var d I2 = a;
+        

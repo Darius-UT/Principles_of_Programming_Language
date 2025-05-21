@@ -1,0 +1,15 @@
+func main (a int) { 
+            if (a==3) {
+                var b int;
+                if (b==4){
+                    var c = a+b;
+                    
+                }
+                var d float= b*a;
+            } else if (a==4) {
+                var b int = 3;
+            } else {
+                var d = b+c;
+            }
+        
+        };

@@ -1,0 +1,10 @@
+
+type TIEN struct {
+    HoangPhuc int;
+}
+
+func (v TIEN) getInt () {
+    v.getInt ();
+    v.putInt ();
+}
+        

@@ -1,0 +1,8 @@
+
+var a string;
+func main() {
+    var b string;
+    putString(a)
+    putString(b)
+}
+    

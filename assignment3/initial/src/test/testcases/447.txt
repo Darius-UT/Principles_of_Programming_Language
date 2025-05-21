@@ -1,0 +1,1 @@
+Program([StructType(A,[(x,IntType)],[]),MethodDecl(s,Id(A),FuncDecl(get,[],VoidType,Block([ConstDecl(c,FieldAccess(Id(s),x)),VarDecl(d,FieldAccess(Id(s),y))])))])

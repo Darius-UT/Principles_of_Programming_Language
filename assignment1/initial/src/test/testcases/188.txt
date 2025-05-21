@@ -1,0 +1,4 @@
+
+        /* This is an unclosed comment
+        var x int = 10;
+        

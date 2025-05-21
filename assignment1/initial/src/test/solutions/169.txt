@@ -1,0 +1,1 @@
+func,ComplexFunction,(,a,int,,,b,float,,,c,string,,,d,[,5,],int,,,e,[,4,],float,),[,3,],[,23,],int,{,var,result,int,;,return,result,;,},;,<EOF>

@@ -1,0 +1,9 @@
+
+        func Fibonacci(n int) int {
+            if (n <= 1) {
+                return n;
+            }
+            var a int = Fibonacci(n - 1) + Fibonacci(n - 2);
+            return a;
+        }
+        

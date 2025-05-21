@@ -1,0 +1,1 @@
+var,result,float,=,10,/,0,;,<EOF>

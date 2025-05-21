@@ -1,0 +1,6 @@
+
+        type InvalidStruct struct {
+            name string;
+            age unknownType;
+        }
+        

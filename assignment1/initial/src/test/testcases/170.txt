@@ -1,0 +1,9 @@
+
+        type ErrorStruct struct {
+            name string
+            age int;
+            func (e ErrorStruct) GetName() string 
+                return e.name;
+            };
+        }
+        

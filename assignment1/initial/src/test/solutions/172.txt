@@ -1,0 +1,1 @@
+type,ErrorStruct,struct,{,name,string,;,age,int,;,},;,<EOF>

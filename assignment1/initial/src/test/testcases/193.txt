@@ -1,0 +1,8 @@
+
+        func Outer() {
+            func Inner() {
+                print("Inner function");
+            }
+            Inner();
+        }
+        

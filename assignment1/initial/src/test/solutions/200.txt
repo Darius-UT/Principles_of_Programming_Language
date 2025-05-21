@@ -1,0 +1,1 @@
+type,Person,struct,{,c,c,;,func,(,c,c,),Add,(,x,,,y,int,,,b,float,),{,return,;,},;,value,int,;,},;,<EOF>

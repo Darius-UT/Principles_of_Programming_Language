@@ -1,0 +1,1 @@
+func,NoReturnValue,(,),string,{,},;,<EOF>

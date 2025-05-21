@@ -34,19 +34,19 @@
 
 ## About this assignment
 
-These four assignments of Principles of Programming Language subject aim to introduce and guide students to create a simple Compiler based on specification of a new programming language - [Minigo](specifications\MiniGo_Specification.pdf). The primary model of Minigo is "Golang" which is an extremely strong and useful language developed by Google.
+These four assignments of Principles of Programming Language subject aim to introduce and guide students to create a simple Compiler based on specification of a new programming language - [Minigo](specifications/MiniGo_Specification.pdf). The primary model of Minigo is "Golang" which is an extremely strong and useful language developed by Google.
 
 The project focuses on the fundamental programming language implementation, through five primary stages:
 
-1. Lexical Analysis ([Assignment 1](assignment1\initial)):
+1. Lexical Analysis ([Assignment 1](assignment1/initial)):
     - Regular Expression (ANTLR)
-2. Syntax Analysis ([Assignment 1](assignment1\initial)):
+2. Syntax Analysis ([Assignment 1](assignment1/initial)):
     - Context Free Grammar (ANTLR)
-3. Abstract syntax tree Generation ([Assignment 2](assignment2\initial)):
+3. Abstract syntax tree Generation ([Assignment 2](assignment2/initial)):
     - Python
-4. Semantic Analysis ([Assignment 3](assignment3\initial)):
+4. Semantic Analysis ([Assignment 3](assignment3/initial)):
     - Python
-5. Intermediate code Generation ([Assignment 4](assignment4\initial)):
+5. Intermediate code Generation ([Assignment 4](assignment4/initial)):
     - Python
 
 

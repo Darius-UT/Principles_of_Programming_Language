@@ -13,5 +13,5 @@ output/
 .vscode
 
 BKOOL
-codegen
+codegen_class
 testcase

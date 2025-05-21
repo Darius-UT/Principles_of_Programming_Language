@@ -39,25 +39,30 @@ These four assignments of Principles of Programming Language subject aim to intr
 The project focuses on the fundamental programming language implementation, through five primary stages:
 
 1. Lexical Analysis ([Assignment 1](assignment1/initial)):
-    - Regular Expression (ANTLR)
+    - Use: Regular Expression (ANTLR);
+    - Self-implementing files: MiniGo.g4, LexerSuite.py.
 2. Syntax Analysis ([Assignment 1](assignment1/initial)):
-    - Context Free Grammar (ANTLR)
+    - Use: Context Free Grammar (ANTLR);
+    - Self-implementing files: MiniGo.g4, LexerSuite.py.
 3. Abstract syntax tree Generation ([Assignment 2](assignment2/initial)):
-    - Python
+    - Use: Python;
+    - Self-implementing files: ASTGeneration.py, ASTGenSuite.py.
 4. Semantic Analysis ([Assignment 3](assignment3/initial)):
-    - Python
+    - Use: Python;
+    - Self-implementing files: StaticCheck.py, CheckSuite.py.
 5. Intermediate code Generation ([Assignment 4](assignment4/initial)):
-    - Python
+    - Use: Python;
+    - Self-implementing files: CodeGenerator.py, Emitter.py (partial), CodeGenSuite.py.
 
 
 ## Result in class
 
 This result was calculated based on the total number of correct testcases (compared to Author PhD Nguyễn Hứa Phùng):
 
-- Assigment 1: Lexer(100/100) + Parser (100/100)
+- Assigment 1: Lexer(100/100) + Parser (100/100).
 
-- Assigment 2: 95/100
+- Assigment 2: 95/100.
 
-- Assignment 3: 118/125
+- Assignment 3: 118/125.
 
-- Assigment 4: .../...
+- Assigment 4: .../....

@@ -27,8 +27,8 @@
 - Semester: 242
 - Student: Nguyễn Lê Hoàng Phúc
 - ID: 2212629
-- Lectures: Master Trần Ngọc Bảo Duy
-- Minigo Specification Desiger & Inital source code: PhD Nguyễn Hứa Phùng
+- Lecturer: Master Trần Ngọc Bảo Duy
+- Minigo Specification Desiger & Inital source code Provider: PhD Nguyễn Hứa Phùng
 
 ![Ê Ê](https://media3.giphy.com/media/0jjALjfIMKeuGjyI22/200w.gif?cid=6c09b952e24dp2bli4t4dgbz3hyi0j615qctqhi6jyn50dex&ep=v1_gifs_search&rid=200w.gif&ct=g)
 
@@ -48,3 +48,16 @@ The project focuses on the fundamental programming language implementation, thro
     - Python
 5. Intermediate code Generation (Assignment 4)
     - Python
+
+
+## Result in class
+
+This result was calculated based on the total number of correct testcases:
+
+- Assigment 1: Lexer(100/100) + Parser (100/100)
+
+- Assigment 2: 95/100
+
+- Assignment 3: 118/125
+
+- Assigment 4: .../...

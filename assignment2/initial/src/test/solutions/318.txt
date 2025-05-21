@@ -1,1 +1,0 @@
-Program([MethodDecl(myMethod,Id(myStructType),FuncDecl(main,[],VoidType,Block([ForEach(Id(_),Id(value),Id(myArr),Block([Assign(Id(i),BinaryOp(Id(i),+,IntLiteral(1)))]))])))])

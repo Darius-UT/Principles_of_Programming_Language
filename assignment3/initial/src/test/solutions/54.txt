@@ -1,1 +1,0 @@
-Type Mismatch: VarDecl(v,IntType,FloatLiteral(1.2))

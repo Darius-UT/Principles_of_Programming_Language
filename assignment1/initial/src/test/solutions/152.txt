@@ -1,1 +1,0 @@
-var,x,int,=,10,;,const,PI,float,=,3.1415,;,var,name,string,=,"John Doe",;,var,isActive,bool,=,true,;,<EOF>

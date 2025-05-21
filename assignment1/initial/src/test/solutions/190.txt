@@ -1,1 +1,0 @@
-type,DuplicateField,struct,{,name,string,;,name,int,;,},;,<EOF>

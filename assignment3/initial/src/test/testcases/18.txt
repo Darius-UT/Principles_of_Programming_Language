@@ -1,4 +1,0 @@
-
-type TIEN interface {foo();}
-type TIEN interface {foo();}
-        

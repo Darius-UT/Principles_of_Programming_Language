@@ -1,1 +1,0 @@
-func main() { p.foo().bar(1); };

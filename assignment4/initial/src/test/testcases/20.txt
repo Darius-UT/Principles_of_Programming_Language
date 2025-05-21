@@ -1,7 +1,0 @@
-
-func main() {
-    var a [3][2][4] float;
-    a[0][1][0] := 124.4
-    putFloat(a[0][1][0]);
-}
-    

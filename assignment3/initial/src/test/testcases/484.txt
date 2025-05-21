@@ -1,1 +1,0 @@
-Program([VarDecl(a,ArrayType(IntType,[IntLiteral(2),IntLiteral(3)])),VarDecl(b,ArrayCell(Id(a),[IntLiteral(1)])),VarDecl(c,ArrayType(IntType,[IntLiteral(2)]),Id(b)),VarDecl(d,ArrayType(StringType,[IntLiteral(1)]),Id(b))])

@@ -1,5 +1,0 @@
-
-type TIEN struct {a int;}
-type VO struct {a int;}
-type TIEN interface {foo();}
-        

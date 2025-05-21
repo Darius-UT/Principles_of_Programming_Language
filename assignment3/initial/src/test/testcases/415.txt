@@ -1,2 +1,0 @@
- 
-                    func m (a int) { var a int; m(a);};

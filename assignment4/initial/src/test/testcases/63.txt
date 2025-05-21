@@ -1,7 +1,0 @@
-
-func main() {
-    var a [2][1] float = [2][1] float {{12},{20}};
-    a[0] := [1] float{43}
-    putFloatLn(a[0][0]);
-}
-    

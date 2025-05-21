@@ -1,9 +1,0 @@
-
-func HoangPhuc () int {return 1;}
-
-func foo () {
-    var b = HoangPhuc();
-    foo_hoangphuc();
-    return;
-}
-        

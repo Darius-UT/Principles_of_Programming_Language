@@ -1,7 +1,0 @@
-
-func main() {
-    var local = "a";
-    local += "c"
-    putStringLn(local)
-
-};

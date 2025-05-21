@@ -1,8 +1,0 @@
-
-                func main () {
-                    var a boolean
-                    for (a) {
-                        return
-                    }
-                }
-                

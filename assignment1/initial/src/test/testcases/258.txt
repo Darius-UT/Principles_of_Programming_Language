@@ -1,7 +1,0 @@
-
-
-        func myFunc(a, b int, c string) int {
-            var arr [5]int = [2][3]int{{1, 2, 3}, {4, 5, 6}}
-        }
-        
-        

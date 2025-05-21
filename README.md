@@ -38,15 +38,15 @@ These four assignments of Principles of Programming Language subject aim to intr
 
 The project focuses on the fundamental programming language implementation, through five primary stages:
 
-1. Lexical Analysis ([Assignment 1]{assignment1}):
+1. Lexical Analysis ([Assignment 1]{assignment1\initial}):
     - Regular Expression (ANTLR)
-2. Syntax Analysis ([Assignment 1]{assignment1})
+2. Syntax Analysis ([Assignment 1]{assignment1\initial})
     - Context Free Grammar (ANTLR)
-3. Abstract syntax tree Generation ([Assignment 2]{assignment1})
+3. Abstract syntax tree Generation ([Assignment 2]{assignment2\initial})
     - Python
-4. Semantic Analysis ([Assignment 3]{assignment1})
+4. Semantic Analysis ([Assignment 3]{assignment3\initial})
     - Python
-5. Intermediate code Generation ([Assignment 4]{assignment1})
+5. Intermediate code Generation ([Assignment 4]{assignment4\initial})
     - Python
 
 

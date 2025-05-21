@@ -1,8 +1,0 @@
-
-
-        func myFunc(a, b int, c string) string {
-            var arr [5]int 
-            return
-        }
-        
-        

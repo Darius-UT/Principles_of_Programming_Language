@@ -1,1 +1,0 @@
-Program([FuncDecl(foo,[],VoidType,Block([Assign(FieldAccess(ArrayCell(FieldAccess(Id(a),b),[IntLiteral(2)]),c),IntLiteral(1))]))])

@@ -1,1 +1,0 @@
-func a(b int) int { var a int = c; }; 

@@ -1,3 +1,0 @@
-
-        var result float = 10 / 0;
-        

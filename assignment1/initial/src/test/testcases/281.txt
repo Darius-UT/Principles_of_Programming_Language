@@ -1,3 +1,0 @@
-
-        func NoReturn(a, b, c, d, e int, asd float, trh6h string) int {return;}
-        

@@ -1,1 +1,0 @@
-Program([FuncDecl(Declra,[ParDecl(a,IntType),ParDecl(a,IntType)],VoidType,Block([Return()]))])

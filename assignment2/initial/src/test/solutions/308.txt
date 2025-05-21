@@ -1,1 +1,0 @@
-Program([FuncDecl(isEven,[ParDecl(n,IntType)],Id(bool),Block([Return(BinaryOp(BinaryOp(Id(n),%,IntLiteral(2)),==,IntLiteral(0)))]))])

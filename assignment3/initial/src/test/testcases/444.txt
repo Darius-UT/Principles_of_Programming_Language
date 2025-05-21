@@ -1,1 +1,0 @@
-Program([MethodDecl(v,Id(A),FuncDecl(f1,[],VoidType,Block([Return()]))),MethodDecl(v,Id(A),FuncDecl(f2,[],VoidType,Block([Return()]))),MethodDecl(v,Id(A),FuncDecl(f2,[],VoidType,Block([Return()]))),StructType(A,[(x,IntType)],[])])

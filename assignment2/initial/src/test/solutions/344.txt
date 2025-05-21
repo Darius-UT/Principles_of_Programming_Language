@@ -1,1 +1,0 @@
-Program([MethodDecl(ID,Id(ID),FuncDecl(foo,[ParDecl(a,IntType)],VoidType,Block([VarDecl(a,IntLiteral(1))]))),MethodDecl(ID,Id(ID),FuncDecl(foo,[ParDecl(a,IntType),ParDecl(b,Id(ID))],VoidType,Block([VarDecl(a,IntLiteral(1))]))),MethodDecl(ID,Id(ID),FuncDecl(foo,[ParDecl(a,IntType),ParDecl(b,IntType)],VoidType,Block([VarDecl(a,IntLiteral(1))])))])

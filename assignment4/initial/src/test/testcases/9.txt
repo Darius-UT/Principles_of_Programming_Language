@@ -1,5 +1,0 @@
- 
-func main() {
-    var a float = 3.0;
-    putFloat(1 + a)
-}

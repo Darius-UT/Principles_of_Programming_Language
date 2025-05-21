@@ -1,6 +1,0 @@
-     
-                func create() [3] int {
-                    var a [3] int;
-                    return a
-                }
-                

@@ -1,3 +1,0 @@
-
-        var str = "This is an unclosed string
-        

@@ -1,9 +1,0 @@
-
-        type I1 interface {HoangPhuc();}
-        type I2 interface {HoangPhuc();}
-
-        var v I1;
-        const x = v;
-        var z I1 = x;
-        var k I2 = x;
-        

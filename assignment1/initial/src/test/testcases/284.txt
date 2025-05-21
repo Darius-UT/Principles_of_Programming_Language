@@ -1,4 +1,0 @@
-
-        func NoReturnValue() string {
-        }
-        

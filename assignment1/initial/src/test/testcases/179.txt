@@ -1,5 +1,0 @@
-
-        func NoReturn() int {
-            return;
-        }
-        

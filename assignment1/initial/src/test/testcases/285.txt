@@ -1,5 +1,0 @@
-
-        func UndefinedVariable() {
-            x = 10;
-        }
-        

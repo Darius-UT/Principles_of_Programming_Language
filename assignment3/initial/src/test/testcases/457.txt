@@ -1,1 +1,0 @@
-Program([VarDecl(x,Id(y)),FuncDecl(foo,[],VoidType,Block([ConstDecl(b,IntLiteral(1)),ForEach(Id(x),Id(z),ArrayLiteral([IntLiteral(3)],IntType,[IntLiteral(1),IntLiteral(2),IntLiteral(3)]),Block([VarDecl(y,Id(z))])),VarDecl(y,Id(x)),VarDecl(x,IntLiteral(1))])),VarDecl(y,Id(x))])

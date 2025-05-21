@@ -1,3 +1,0 @@
-
-        var unknownType myCustomType = 10;
-        

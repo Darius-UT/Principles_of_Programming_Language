@@ -1,1 +1,0 @@
-type,Outer,struct,{,type,Inner,struct,{,value,int,;,func,(,i,Inner,),GetValue,(,),int,{,return,i,.,value,;,},;,},;,inner,Inner,;,func,(,o,Outer,),GetInnerValue,(,),int,{,return,o,.,inner,.,GetValue,(,),;,},;,},;,<EOF>

@@ -1,1 +1,0 @@
-var,unknownType,myCustomType,=,10,;,<EOF>

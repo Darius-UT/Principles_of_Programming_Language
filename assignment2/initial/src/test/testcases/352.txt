@@ -1,5 +1,0 @@
-
-        func foo () {
-            if (a) {return;}
-            if (b) {return;} else {return;}
-        }

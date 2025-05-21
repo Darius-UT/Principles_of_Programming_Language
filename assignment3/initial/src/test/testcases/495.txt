@@ -1,7 +1,0 @@
-
-                func main () {
-                    for (true) {
-                        return
-                    }
-                }
-                

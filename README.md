@@ -18,15 +18,33 @@
 
 </a>
 
-<h1  align="center">Nguyên Lý Ngôn Ngữ Lập Trình</h1>
+<h1  align="center">Principles of Programming Language</h1>
 
 </div>
 
-## Giới thiệu
+## Introduction
 
-- Học kỳ: 242
-- Sinh viên thực hiện: Nguyễn Lê Hoàng Phúc
-- MSSV: 2212629
-- Giảng viên hướng dẫn: Trần Ngọc Bảo Duy
+- Semester: 242
+- Student: Nguyễn Lê Hoàng Phúc
+- ID: 2212629
+- Lectures: Master Trần Ngọc Bảo Duy
+- Minigo Specification Desiger & Inital source code: PhD Nguyễn Hứa Phùng
 
 ![Ê Ê](https://media3.giphy.com/media/0jjALjfIMKeuGjyI22/200w.gif?cid=6c09b952e24dp2bli4t4dgbz3hyi0j615qctqhi6jyn50dex&ep=v1_gifs_search&rid=200w.gif&ct=g)
+
+## About this assignment
+
+These four assignments of Principles of Programming Language subject aim to introduce and guide students to create a simple Compiler based on specification of a new programming language - Minigo. The primary model of Minigo is "Golang" which is an extremely strong and useful language developed by Google.
+
+The project focuses on the fundamental programming language implementation, through five primary stages:
+
+1. Lexical Analysis (Assignment 1):
+    - Regular Expression (ANTLR)
+2. Syntax Analysis (Assignment 1)
+    - Context Free Grammar (ANTLR)
+3. Abstract syntax tree Generation (Assignment 2)
+    - Python
+4. Semantic Analysis (Assignment 3)
+    - Python
+5. Intermediate code Generation (Assignment 4)
+    - Python

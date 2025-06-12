@@ -1,9 +1,0 @@
-
-        type S1 struct {HoangPhuc int;}
-        type S2 struct {HoangPhuc int;}
-
-        var v S1;
-        const x = v;
-        var z S1 = x;
-        var k S2 = x;
-        

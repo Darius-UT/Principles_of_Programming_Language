@@ -1,1 +1,0 @@
-Program([VarDecl(a,IntLiteral(1)),VarDecl(b,Id(a)),VarDecl(c,Id(d))])

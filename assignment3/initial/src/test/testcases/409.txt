@@ -1,1 +1,0 @@
-func a(b int, c float) int { var a int = 1 + b*2 + 2.2;}; 

@@ -1,4 +1,0 @@
-GiaiPhongMienNam
-3.0
-true
-ac

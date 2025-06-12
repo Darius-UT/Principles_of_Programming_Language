@@ -1,1 +1,0 @@
-Program([FuncDecl(putInt,[],VoidType,Block([Return()]))])

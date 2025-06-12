@@ -1,1 +1,0 @@
-Program([FuncDecl(foo,[],VoidType,Block([Assign(ArrayCell(Id(a),[BinaryOp(IntLiteral(1),+,IntLiteral(1))]),IntLiteral(1))]))])

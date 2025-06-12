@@ -1,10 +1,17 @@
 myenv/
 *.env
+
+__pycache__
+__MACOSX
+
+solutions/
+testcases/
 target/
 input/
 output/
-__pycache__/
+
+.vscode
 
 BKOOL
-codegen
+codegen_class
 testcase

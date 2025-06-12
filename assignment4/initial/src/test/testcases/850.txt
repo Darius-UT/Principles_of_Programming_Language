@@ -1,9 +1,0 @@
- 
-func main() {
-    putBoolLn(5.0 > 2.0)
-    putBoolLn(5.0 < 2.0)
-    putBoolLn(5.0 <= 5.0)
-    putBoolLn(5.0 >= 5.0)
-    putBoolLn(5.0 == 5.0)
-    putBoolLn(5.0 != 5.0)
-}

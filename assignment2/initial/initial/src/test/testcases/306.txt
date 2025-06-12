@@ -1,5 +1,0 @@
-
-            func (MyStruct s) doSomething() {
-                s.value := s.value + 1;
-            }
-        

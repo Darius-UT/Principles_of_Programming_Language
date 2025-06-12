@@ -1,4 +1,0 @@
-
-type TIEN struct {HoangPhuc int;}
-type TIEN struct {v int;}
-        

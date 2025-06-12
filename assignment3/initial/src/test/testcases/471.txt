@@ -1,1 +1,0 @@
-Program([ConstDecl(a,IntLiteral(3)),FuncDecl(foo,[],VoidType,Block([ConstDecl(a,IntLiteral(2)),For(BinaryOp(Id(a),<,IntLiteral(1)),Block([ConstDecl(a,IntLiteral(1)),For(BinaryOp(Id(a),<,IntLiteral(1)),Block([ConstDecl(a,IntLiteral(0)),ConstDecl(b,IntLiteral(1))])),ConstDecl(b,IntLiteral(1)),VarDecl(a,IntLiteral(1))]))]))])

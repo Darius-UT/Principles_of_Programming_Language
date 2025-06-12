@@ -1,1 +1,0 @@
-Program([VarDecl(v,Id(A)),ConstDecl(b,MethodCall(Id(v),foo,[])),StructType(A,[(a,IntType)],[]),MethodDecl(v,Id(A),FuncDecl(foo,[],IntType,Block([Return(IntLiteral(1))]))),MethodDecl(v,Id(A),FuncDecl(koo,[],IntType,Block([Return(IntLiteral(1))]))),ConstDecl(c,MethodCall(Id(v),koo,[])),ConstDecl(d,MethodCall(Id(v),zoo,[]))])

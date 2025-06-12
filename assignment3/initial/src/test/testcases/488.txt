@@ -1,7 +1,0 @@
-     
-                func create()  int {
-                    const c = 3;
-                    
-                    return c
-                }
-                

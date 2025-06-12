@@ -1,5 +1,0 @@
-
-    type PHUC struct {HoangPhuc int;}
-    func (v PHUC) foo (v int) {return;}
-    func foo () {return;}
-        

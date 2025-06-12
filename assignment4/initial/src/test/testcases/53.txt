@@ -1,7 +1,0 @@
- 
-func main() {
-    putIntLn(1)
-    putFloatLn(1.0)
-    putStringLn("THONG NHAT DAT NUOC")
-    putLn()
-} 

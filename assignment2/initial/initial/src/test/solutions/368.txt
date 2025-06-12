@@ -1,1 +1,0 @@
-Program([MethodDecl(MyStruct,Id(s),FuncDecl(doSomething,[],VoidType,Block([Assign(FieldAccess(Id(s),value),BinaryOp(FieldAccess(Id(s),value),+,IntLiteral(1)))])))])

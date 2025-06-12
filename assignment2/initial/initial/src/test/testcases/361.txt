@@ -1,1 +1,0 @@
-const VoTien = foo( a[0b1][3] ); 

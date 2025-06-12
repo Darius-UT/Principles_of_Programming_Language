@@ -1,4 +1,0 @@
-
-const HoangPhuc = 1;
-func HoangPhuc () {return;}
-        

@@ -1,8 +1,0 @@
-
-                 type A struct {
-                    a string
-                    b float
-                    c int
-                    a int
-                 }
-                

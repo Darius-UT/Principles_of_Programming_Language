@@ -1,6 +1,0 @@
- 
-func foo() int {return 1;}        
-
-func main() {
-    putInt(foo())
-}

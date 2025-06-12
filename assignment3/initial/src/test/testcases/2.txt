@@ -1,4 +1,0 @@
-
-var HoangPhuc = 1;
-const HoangPhuc = 2;
-        

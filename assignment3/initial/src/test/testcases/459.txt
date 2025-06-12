@@ -1,1 +1,0 @@
-Program([InterfaceType(A,[Prototype(foo,[],VoidType)]),ConstDecl(A,IntLiteral(2))])

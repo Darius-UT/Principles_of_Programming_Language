@@ -1,1 +1,0 @@
-Program([InterfaceType(I,[Prototype(foo,[],VoidType)]),InterfaceType(I,[Prototype(foo,[],VoidType)])])

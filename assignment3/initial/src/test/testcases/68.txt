@@ -1,6 +1,0 @@
-
-type HoangPhuc interface {
-    HoangPhuc ();
-    HoangPhuc (a int);
-}
-        

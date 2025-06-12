@@ -1,7 +1,0 @@
-
-func HoangPhuc (b int) {
-    for var a = 1; a < 1; a += 1 {
-        const a = 2;
-    }
-}
-        

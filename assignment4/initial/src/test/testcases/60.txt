@@ -1,9 +1,0 @@
-
-const a = 2
-func main() {
-    var b [a] int;
-    putInt(b[0]);
-    b[0] := 20;
-    putInt(b[0]);
-}
-    
